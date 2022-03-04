@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Anderson da Silva <anderson.consultant.it@outlook.com",
-  "description": "Nodejs Typescript TypeORM Docker Boilerplate",
+  "description": "Facebook Authentication without Passportjs and saving user data with Prisma ORM",
   "license": "MIT",
   "type": "module",
   "scripts": {
